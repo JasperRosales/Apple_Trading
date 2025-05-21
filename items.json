@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Paper Plate",
+    "category": "Catering Supplies",
+    "price": 30,
+    "image": "https://via.placeholder.com/300x180?text=Catering+Item+1"
+  },
+  {
+    "name": "Thumbtacks",
+    "category": "School Supplies",
+    "price": 15,
+    "image": "https://via.placeholder.com/300x180?text=School+Item+1"
+  }
+]
